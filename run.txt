@@ -1,4 +1,5 @@
 pip install -r requirements.txt
+## Adjust import files path
 python train_model.py
 ## Simple Streamlit demo to load the saved RF pipeline and predict numeric DPD bucket
 streamlit run streamlit_app.py
